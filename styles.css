@@ -47,10 +47,12 @@ body {
   font-weight: 520;
   color:black;
 }
-#menu{
+#menu,#rowwy{
   background-color: #f7f8f9;
   color: #4F091D;
 }
+#rowwy{
+  padding:0px;
 #directions {
   margin-top: 3rem;
   background-color: #f7f8f9;
